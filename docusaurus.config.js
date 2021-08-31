@@ -28,7 +28,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/jacksmedia/guide1',
           label: 'Code Of This',
           position: 'right',
         },
@@ -72,7 +72,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/jacksmedia/guide1',
             },
           ],
         },
