@@ -13,6 +13,14 @@ module.exports = {
   organizationName: 'jacksmedia', // Usually your GitHub org/user name.
   projectName: 'silversidedown', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      disableSwitch: false,
+      defaultMode: 'dark',
+      switchConfig: {
+        darkIcon: '🦇',
+        lightIcon: '🦢',
+      },
+    },
     navbar: {
       title: 'Silverside Down',
       logo: {
