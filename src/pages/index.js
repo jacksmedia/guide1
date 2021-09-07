@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Acquire Your First Cryptocurrency Tutorial ~30min ⏱️
+            Buy Your First Crypto ~15min ⏱️
           </Link>
         </div>
       </div>
