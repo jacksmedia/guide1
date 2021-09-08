@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started
 
-Let's acquire your first cryptocurrency *in less than 30 minutes*.
+Let's acquire your first cryptocurrency *in less than 15 minutes*.
 
 ## Getting Squared Away
 

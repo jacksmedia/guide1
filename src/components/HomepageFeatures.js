@@ -4,17 +4,18 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Acquire Trust Wallet',
+    link: '/docs/tutorial-basics/get-wallet',
+    Svg: require('../../static/img/wallet0.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        When you keep your money in a blockchain, you access it with a crypto wallet. Learn how to set up your first walllet here!
       </>
     ),
   },
   {
     title: 'Focus on What Matters',
+    link: '/docs/tutorial-basics/get-wallet',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -25,6 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Powered by React',
+    link: '/docs/tutorial-basics/get-wallet',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -35,16 +37,18 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, link, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
+      <a href={link}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} alt={title} />
+        </div>
+        <div className="text--center padding-horiz--md">
+          <h3>{title}</h3>
+          <p>{description}</p>
+        </div>
+      </a>
     </div>
   );
 }
