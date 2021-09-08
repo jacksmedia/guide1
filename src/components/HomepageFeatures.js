@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Acquire Trust Wallet',
-    link: '/docs/tutorial-basics/get-wallet',
+    link: '/docs/wallet/get-wallet',
     Svg: require('../../static/img/wallet0.svg').default,
     description: (
       <>
@@ -14,24 +14,22 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    link: '/docs/tutorial-basics/get-wallet',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Join Exchanges',
+    link: '/docs/exchanges/join',
+    Svg: require('../../static/img/cbkc.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Coinbase and KuCoin are great choices.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    link: '/docs/tutorial-basics/get-wallet',
+    title: 'Power Up Your Money',
+    link: '/docs/wallet/get-wallet',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Learn some fundamental ways to use cryptocurrency-- send, spend, save, stake!
       </>
     ),
   },
@@ -40,7 +38,7 @@ const FeatureList = [
 function Feature({Svg, title, link, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <a href={link}>
+      <a href={link} className="unfancy-link">
         <div className="text--center">
           <Svg className={styles.featureSvg} alt={title} />
         </div>
