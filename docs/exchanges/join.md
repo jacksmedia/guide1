@@ -1,88 +1,35 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Translate your site
+# Let's Join Coinbase & KuCoin
 
-Let's translate `docs/intro.md` to French.
+Coinbase works with Ethereum & Bitcoin, KuCoin has rare and interesting tokens. You can actually skip KuCoin for now if you're eager to just grab some Bitcoin or Ethereum and come back and sign up later, but it's pretty easy to knock out both applications at once so why not just get it over with as a two for one?
 
-## Configure i18n
+## 📥📊 Download Coinbase app
 
-Modify `docusaurus.config.js` to add support for the `fr` locale:
 
-```js title="docusaurus.config.js"
-module.exports = {
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fr'],
-  },
-};
-```
+We recommended Coinbase as a good first exchange. Here are the download links:
+- [android](https://www.coinbase.com/join/jacks_pv)
+- [iPhone](https://www.coinbase.com/join/jacks_pv)
 
-## Translate a doc
+:::danger
+Never, ever use the same password for both of these exchanges. Never, ever reuse a password for anything! You can [use this site](https://passwordsgenerator.net/) to create very safe passwords (make them 20+ characters long).
+:::danger
 
-Copy the `docs/intro.md` file to the `i18n/fr` folder:
+## 📥📊 Download KuCoin app
 
-```bash
-mkdir -p i18n/fr/docusaurus-plugin-content-docs/current/
+KuCoin is astounding because they have a larger variety of cryptos than Coinbase, and they have many more ways to use your wealth. We'll only scratch the surface of KuCoin today, so don't worry too much and good job getting yourself into cryptocurrency!
+- [android](https://www.coinbase.com/join/jacks_pv)
+- [iPhone](https://www.coinbase.com/join/jacks_pv)
 
-cp docs/intro.md i18n/fr/docusaurus-plugin-content-docs/current/intro.md
-```
+## 📥🧭 Google Authenticator
 
-Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
+One More Item Before You Go...
 
-## Start your localized site
+Please also download Google Authenticator, for 1-in-a-million security (yes, it's like rolling a d10^6) because both exchanges will require this magical app to prove yourself and keep your crypto safe.
 
-Start your site on the French locale:
+- [android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&gl=US)
+- [iPhone](https://apps.apple.com/us/app/google-authenticator/id388497605)
 
-```bash
-npm run start -- --locale fr
-```
 
-Your localized site is accessible at `http://localhost:3000/fr/` and the `Getting Started` page is translated.
-
-:::caution
-
-In development, you can only use one locale at a same time.
-
-:::
-
-## Add a Locale Dropdown
-
-To navigate seamlessly across languages, add a locale dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'localeDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The locale dropdown now appears in your navbar:
-
-![Locale Dropdown](/img/tutorial/localeDropdown.png)
-
-## Build your localized site
-
-Build your site for a specific locale:
-
-```bash
-npm run build -- --locale fr
-```
-
-Or build your site to include all the locales at once:
-
-```bash
-npm run build
-```

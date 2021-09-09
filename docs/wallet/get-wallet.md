@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 tags: [wallet, trustwallet, metamask, blockchain, hardware, dozenwords]
 ---
 
@@ -7,7 +7,7 @@ tags: [wallet, trustwallet, metamask, blockchain, hardware, dozenwords]
 
 [Trust Wallet](https://trustwallet.com/deeplink/) is the best option for just about everyone.  A mobile app that can hold any crypto from any blockchain, there's no reason for beginners to look elsewhere. Unless...
 
-> Are you already using the Brave Browser? If so, you can unlock its built-in crypto wallets and use it to store your currency. Open Brave Settings and you'll find a Wallet option on the left sidebar; this can accept BAT, ETH, and many more currencies. Choose ETH & BAT for now, and pat yourself on the back!
+> Are you already using the Brave Browser? If so, you can unlock its built-in crypto wallets and use it to store your currency. Open Brave Settings and you'll find a Wallet option on the left sidebar; this can accept BAT, ETH, and many more currencies. Choose ETH & BAT for now, double check that you know your Brave account password, and then pat yourself on the back! 
 
 ![Brave Wallet screen](./imgs/BraveWallet.png)
 
