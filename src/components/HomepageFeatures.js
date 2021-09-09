@@ -3,23 +3,23 @@ import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
+   {
+    title: 'Join Exchanges',
+    link: '/docs/exchanges/join',
+    Svg: require('../../static/img/cbkc.svg').default,
+    description: (
+      <>
+        Coinbase and KuCoin are great choices for buying crypto with traditional currency.
+      </>
+    ),
+  },
   {
     title: 'Acquire Trust Wallet',
     link: '/docs/wallet/get-wallet',
     Svg: require('../../static/img/wallet0.svg').default,
     description: (
       <>
-        When you keep your money in a blockchain, you access it with a crypto wallet. Learn how to set up your first walllet here!
-      </>
-    ),
-  },
-  {
-    title: 'Join Exchanges',
-    link: '/docs/exchanges/join',
-    Svg: require('../../static/img/cbkc.svg').default,
-    description: (
-      <>
-        Coinbase and KuCoin are great choices.
+        When you keep your money on a blockchain, you access it with a crypto wallet. Learn how to set up your first walllet here!
       </>
     ),
   },
