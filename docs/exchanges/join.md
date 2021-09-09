@@ -20,8 +20,8 @@ Never, ever use the same password for both of these exchanges. Never, ever reuse
 ## 📥📊 Download KuCoin app
 
 KuCoin is astounding because they have a larger variety of cryptos than Coinbase, and they have many more ways to use your wealth. We'll only scratch the surface of KuCoin today, so don't worry too much and good job getting yourself into cryptocurrency!
-- [android](https://www.coinbase.com/join/jacks_pv)
-- [iPhone](https://www.coinbase.com/join/jacks_pv)
+- [android](https://www.kucoin.com/ucenter/signup?rcode=r3JHB3C&lang=en_US&utm_source=friendInvite)
+- [iPhone](https://www.kucoin.com/ucenter/signup?rcode=r3JHB3C&lang=en_US&utm_source=friendInvite)
 
 ## 📥🧭 Google Authenticator
 
