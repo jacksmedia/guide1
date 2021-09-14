@@ -3,6 +3,7 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Raleway:wght@800&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -14,6 +15,11 @@
   --ifm-color-primary-lighter: rgb(193, 196, 202);
   --ifm-color-primary-lightest: rgb(203, 231, 234);
   --ifm-code-font-size: 95%;
+  --ifm-font-family-base: 'Lato', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Raleway', sans-serif;
 }
 
 .docusaurus-highlight-code-line {
