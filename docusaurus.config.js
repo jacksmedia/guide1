@@ -55,7 +55,20 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Even More!',
+          items: [
+            {
+              label: 'Deep Dive into Blockchains',
+              to: '/blog',
+            },
+            {
+              label: 'Code for this Site on GitHub',
+              href: 'https://github.com/jacksmedia/guide1',
+            },
+          ],
+        },
+        {
+          title: 'How To Build This Yourself',
           items: [
             {
               label: 'Stack Overflow',
@@ -71,21 +84,8 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/jacksmedia/guide1',
-            },
-          ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Jacks Media, LLC. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jacks Media, LLC. Built with Docusaurus; check out the HTBTY links above for more!`,
     },
     prism: {
       theme: lightCodeTheme,

@@ -4,12 +4,12 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
    {
-    title: 'Join Exchanges',
+    title: 'New App + Currency Exchange',
     link: '/docs/exchanges/join',
-    Svg: require('../../static/img/cbkc.svg').default,
+    Svg: require('../../static/img/vlcb.svg').default,
     description: (
       <>
-        Coinbase and KuCoin are great choices for buying crypto with traditional currency.
+        Valora and Coinbase are great choices for buying crypto with traditional currency, and sending money to other people.
       </>
     ),
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('../../static/img/wallet0.svg').default,
     description: (
       <>
-        When you keep your money on a blockchain, you access it with a crypto wallet. Learn how to set up your first walllet here!
+        When you keep your money on a blockchain, you access it with a personal crypto wallet. This is also how to browse Web 3.0, built with crypto!
       </>
     ),
   },

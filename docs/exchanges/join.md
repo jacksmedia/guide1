@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Let's Join Coinbase & KuCoin
+# Let's Join Coinbase & Valora
 
-Coinbase works with Ethereum & Bitcoin, KuCoin has rare and interesting tokens. You can actually skip KuCoin for now if you're eager to just grab some Bitcoin or Ethereum and come back and sign up later, but it's pretty easy to knock out both applications at once so why not just get it over with as a two for one?
+Coinbase works with Ethereum & Bitcoin, and many more cryptos and tokens than you've likely heard of before. Valora lets you send money to anyone with an email, and also lets you buy and sell their CELO currency. You can actually skip Valora for now if you're eager to just grab some Bitcoin or Ethereum and come back and sign up for Valora later, but it's pretty easy to knock out both applications at once so why not just get it over with as a two for one?
 
 ## 📥📊 Download Coinbase app
 
@@ -17,11 +17,20 @@ We recommended Coinbase as a good first exchange. Here are the download links:
 Never, ever use the same password for both of these exchanges. In fact-- never, ever reuse a password for anything! You can [use this site](https://passwordsgenerator.net/) to create very safe passwords (make them 20+ characters long).
 :::danger
 
-## 📥📊 Download KuCoin app
+## 📥📊 Download Valora app
 
-KuCoin is astounding because they have a larger variety of cryptos than Coinbase, and they have many more ways to use your wealth. We'll only scratch the surface of KuCoin today, so don't worry too much and good job getting yourself into cryptocurrency!
-- [android](https://www.kucoin.com/ucenter/signup?rcode=r3JHB3C&lang=en_US&utm_source=friendInvite)
-- [iPhone](https://www.kucoin.com/ucenter/signup?rcode=r3JHB3C&lang=en_US&utm_source=friendInvite)
+Valora has a more specific function than Coinbase-- it's a crypto version of Venmo, basically.
+
+Valora lets you:
+- quickly send CELO Dollars (cUSD) to an email address
+- convert CELO back and forth from your cUSD, and to your local currency,
+- withdraw your local currency to your checking account
+
+If you're patient and careful you can buy CELO low and wait to sell it back to your local currency when it's higher and turn a profit. This is a very basic and easy way to invest in the disruptive force that is cryptocurrency, as it ruthlessly changes our world!
+
+If you are very cautious and don't want to ever worry about CELO then skip Valora entirely, grab Coinbase and don't worry about it! Good job getting yourself into cryptocurrency!
+- [android](https://vlra.app/GZGpu6B5SZB6jWFLA)
+- [iPhone](https://vlra.app/GZGpu6B5SZB6jWFLA)
 
 ## 📥🧭 Google Authenticator
 
