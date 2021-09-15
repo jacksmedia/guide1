@@ -10,7 +10,7 @@ Coinbase works with Ethereum & Bitcoin, and many more cryptos and tokens than yo
 
 
 We recommended Coinbase as a good first exchange. Here are the download links:
-- [android](https://www.coinbase.com/join/jacks_pv)
+- [Android](https://www.coinbase.com/join/jacks_pv)
 - [iPhone](https://www.coinbase.com/join/jacks_pv)
 
 :::danger
@@ -27,7 +27,7 @@ Valora lets you:
 - withdraw your local currency to your checking account
 
 If you're patient and careful you can buy CELO low and wait to sell it back to cUSD when it's higher and turn a profit. This is a very basic and easy way to invest in the disruptive force that is cryptocurrency, as it ruthlessly changes our world!
-- [android](https://vlra.app/GZGpu6B5SZB6jWFLA)
+- [Android](https://vlra.app/GZGpu6B5SZB6jWFLA)
 - [iPhone](https://vlra.app/GZGpu6B5SZB6jWFLA)
 
 If you don't have any interest in sending money to family or friends, and don't want to ever worry about CELO, then skip Valora entirely! Just grab Coinbase and don't worry another moment about it. *Good job getting yourself into cryptocurrency, friend!*
