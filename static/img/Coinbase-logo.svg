@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="255px" height="255px" viewBox="0 0 255 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Valora logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="19.8647394%" cy="24.4409787%" fx="19.8647394%" fy="24.4409787%" r="161.61055%" id="radialGradient-1">
+            <stop stop-color="#E1E3E7" offset="0%"></stop>
+            <stop stop-color="#838996" offset="31.8976338%"></stop>
+            <stop stop-color="#3259A5" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cbkc" transform="translate(-27.000000, -14.000000)" fill-rule="nonzero">
+            <g id="Group">
+                <circle id="Oval" fill="url(#radialGradient-1)" cx="154.5" cy="141.5" r="127.5"></circle>
+                <path d="M199.000689,149.850521 C195.102559,170.577391 176.978445,186.25 155.192717,186.25 C130.560039,186.25 110.596358,166.217541 110.596358,141.5 C110.596358,116.782459 130.560039,96.75 155.192717,96.75 C176.978445,96.75 195.102559,112.431399 199.000689,133.149479 L244,133.149479 C239.804035,87.6347476 201.646161,52 155.192717,52 C105.927362,52 66,92.0737085 66,141.5 C66,190.935082 105.936122,231 155.192717,231 C201.646161,231 239.804035,195.365252 244,149.850521 L199.000689,149.850521 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -6,8 +6,9 @@ sidebar_position: 1
 
 Coinbase works with Ethereum & Bitcoin, and many more cryptos and tokens than you've likely heard of before. Valora lets you send money to anyone with an email, and also lets you buy and sell their CELO currency. You can actually skip Valora for now if you're eager to just grab some Bitcoin or Ethereum and come back and sign up for Valora later, but it's pretty easy to knock out both applications at once so why not just get it over with as a two for one?
 
-## 📥📊 Download Coinbase app
 
+![Coinbase](../../static/img/Coinbase-logo.svg)
+## 📥📊 Download Coinbase app
 
 We recommended Coinbase as a good first exchange. Here are the download links:
 - [Android](https://www.coinbase.com/join/jacks_pv)
@@ -17,6 +18,7 @@ We recommended Coinbase as a good first exchange. Here are the download links:
 Never, ever use the same password for both of these apps. In fact-- never, ever reuse a password for anything! You can [use this site](https://passwordsgenerator.net/) to create very strong passwords (make them 20+ characters long) and save them somewhere safe & offline.
 :::danger
 
+![Valora](../../static/img/Valora-logo.svg)
 ## 📥📊 Download Valora app
 
 Valora has a more specific function than Coinbase-- it's a crypto version of Venmo, basically.
@@ -32,6 +34,7 @@ If you're patient and careful you can buy CELO low and wait to sell it back to c
 
 If you don't have any interest in sending money to family or friends, and don't want to ever worry about CELO, then skip Valora entirely! Just grab Coinbase and don't worry another moment about it. *Good job getting yourself into cryptocurrency, friend!*
 
+![Google Authenticator logo](../../static/img/Authy-logo.svg)
 ## 📥🧭 Google Authenticator
 
 One More Item Before You Go...

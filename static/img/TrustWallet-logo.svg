@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="307px" height="307px" viewBox="0 0 307 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>trusty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trusty">
+            <path d="M0,78 C0,34.9218 34.9218,0 78,0 L229.2,0 C272.2782,0 307.2,34.9218 307.2,78 L307.2,229.2 C307.2,272.2782 272.2782,307.2 229.2,307.2 L78,307.2 C34.9218,307.2 0,272.2782 0,229.2 L0,78 Z" id="Path" fill="#838996" fill-rule="nonzero"></path>
+            <path d="M153.69,61.8 C184.6857,87.6864 220.2303,86.0898 230.3859,86.0898 C228.1644,233.3121 211.2384,204.1185 153.69,245.4 C96.1416,204.1185 79.3215,233.3121 77.1,86.0898 C87.1497,86.0898 122.6943,87.6864 153.69,61.8 Z" id="Path" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
