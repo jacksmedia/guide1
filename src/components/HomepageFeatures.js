@@ -26,7 +26,7 @@ const FeatureList = [
   {
     title: 'Power Up Your Money',
     link: '/docs/wallet/get-wallet',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/signpost1.svg').default,
     description: (
       <>
         Learn some fundamental ways to use cryptocurrency-- send, spend, save, stake!

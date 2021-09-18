@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="439px" height="406px" viewBox="0 0 439 406" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Exchange arrows</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Exchange-arrows" transform="translate(42.000000, 99.000000)" fill="#000000" fill-rule="nonzero">
+            <path id="exchange-arrow-copy" d="M220.818856,-98.2815038 L396.905484,0.440542335 L221.098038,99.658913 L204.878867,70.9197678 L300.284,17.076 L-16.2267114,17.5232558 L-16.2732558,-15.4767114 L300.239,-15.922 L204.680818,-69.4967208 L220.818856,-98.2815038 Z"></path>
+            <path id="exchange-arrow" d="M220.568856,108.968496 L396.655484,207.690542 L220.848038,306.908913 L204.628867,278.169768 L300.034,224.326 L-16.4767114,224.773256 L-16.5232558,191.773289 L299.988,191.327 L204.430818,137.753279 L220.568856,108.968496 Z"></path>
+        </g>
+    </g>
+</svg>
