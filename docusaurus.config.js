@@ -85,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Jacks Media, LLC. Built with Docusaurus; check out the HTBTY links above for more!`,
+      copyright: `Any advice found on this website is of a logistical nature. No content on this site constitutes financial advice.<br/>Copyright © ${new Date().getFullYear()} Jacks Media, LLC. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -99,13 +99,13 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/jacksmedia/guide1',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/jacksmedia/guide1',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

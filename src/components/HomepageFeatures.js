@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Power Up Your Money',
-    link: '/docs/wallet/get-wallet',
+    link: '/docs/basics/sending',
     Svg: require('../../static/img/signpost1.svg').default,
     description: (
       <>
