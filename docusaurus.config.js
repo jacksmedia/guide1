@@ -3,6 +3,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  plugins: ['@docusaurus/plugin-google-gtag'],
+  themeConfig: {
+    gtag: {
+      trackingID: 'ca-pub-7577422854146272',
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
+  },
   title: 'Silverside Down',
   tagline: 'Get Your Start in Cryptocurrency',
   url: 'https://silversidedown.com',
