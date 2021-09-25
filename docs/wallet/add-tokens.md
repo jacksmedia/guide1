@@ -18,7 +18,7 @@ Oh no, here's a common misadventure you'll encounter soon enough. Let's say I ju
 
 2. Research Contract
 
-I need to head over to [CoinMarketCap.com](https://coinmarketcap.com/currencies/polaris-share/) to look up the Polaris token *contract address*.
+I need to head over to [CoinMarketCap.com](https://coinmarketcap.com/currencies/polaris-share/) to look up the Polaris token *contract address*. The Copy symbol will auto-copy it to my clipboard.
 
 
 ![How to add a new token to your Trust Wallet](../../static/img/addtokens3.png)
@@ -30,7 +30,8 @@ Then I'll click *Receive* button up top in Trust Wallet.
 I'll search for 'Polaris', and when it doesn't show up, choose *Add Custom Token*
 
 
-![How to add a new token to your Trust Wallet](../../static/img/addtokens4.png)
+![How to add a new token to your Trust Wallet](../../static/img/addtokens4a.png)
+![How to add a new token to your Trust Wallet](../../static/img/addtokens4b.png)
 
 4. Add token contract
 
