@@ -35,11 +35,14 @@ Valora lets you:
 Two things to note here:
 
 ### 🪄 Passive income through simply holding money in Valora
+![Valora](../../static/img/val1.png)
 
-Significantly higher than anything offered by any bank on Earth. Crypto (and DeFi)
+The APR is so good on cUSD that weekly rewards are currently around 1% which is pretty difficult to believe until you see it firsthand. This is significantly higher than anything offered by any bank on Earth. Crypto (and DeFi)
  are disruptive and magical!
 
 ### 🔄 USD -> cUSD -> CELO -> cUSD -> CELO -> cUSD -> etc
+![Valora](../../static/img/val2.png)
+
 If you're patient and careful you can buy CELO low and wait to sell it back to cUSD when it's higher and turn a profit. This is a very basic and easy way to invest in the disruptive force that is cryptocurrency, as it ruthlessly changes our world!
 - [Android](https://vlra.app/GZGpu6B5SZB6jWFLA)
 - [iPhone](https://vlra.app/GZGpu6B5SZB6jWFLA)
