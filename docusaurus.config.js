@@ -85,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Any advice found on this website is of a logistical nature. No content on this site constitutes financial advice.<br/>Copyright © ${new Date().getFullYear()} Jacks Media, LLC. Built with Docusaurus.<br/><br/>Donate CELO: 0xafab75c76d26caa316eb43fc263529651a0f8c9e <br/>Donate BNB: 0x654aa82C5a1B5bEAb5A48b627ea849d24E6c670e <br/>Donate BTC: 19WqGUVaYr2U5SwWw7hta8Ezx6VRT8VBZF <br/>Donate RVN: RQtZXhTftR4w7Asb2WModw2zEs6dLwWfmx `,
+      copyright: `Any advice found on this website is of a logistical nature. No content herein constitutes financial advice.<br/>Copyright © ${new Date().getFullYear()} Jacks Media, LLC.<br/><br/>Donate EGLD: erd159mypt4myss3mqrs89ft0hjeacffks2690gq9u3mlh73m9sh0w5s09eqhh<br/>Donate RVN: RDhE9ZEEcRn38x5tQiYvv9gT7MXfwL82By<br/>Donate BTC: bc1q3jmlqvpkta0jywy87edd97v9yu7jv74xu0fhy4`,
     },
     prism: {
       theme: lightCodeTheme,

@@ -1,39 +1,73 @@
 ---
 sidebar_position: 2
-tags: [wallet, trustwallet, metamask, blockchain, hardware, dozenwords]
+tags: [wallet, trustwallet, mathwallet, blockchain, hardware, dozenwords]
 ---
-# Even with Coinbase & Valora, You Still Need a Wallet
+# You Need Your Own Wallet
+
+Brand new to crypto? Did you click the new money symbol on your Twitter profile and feel some complex feelings?
+
+![Bitcoin address button on Twitter profile, cc December 2021](../../static/img/newbtn1.png)
+
+Rejoice friend-- it's not tough to start receiving Bitcoin. Here are the essential steps you need to take.
+
+## Overview:
+1. download Trust Wallet
+2. save your Key Words safely
+3. generate BTC address
+4. add the new address to Twitter
+
+## download Trust Wallet
 
 ![Trust Wallet logo](../../static/img/TrustWallet-logo.svg)
 
-[Trust Wallet](https://trustwallet.com/deeplink/) is the best option for just about everyone.  A mobile app that can hold any crypto from any blockchain, there's no reason for beginners to look elsewhere. Unless...
-
-> Are you already using the Brave Browser? If so, you can unlock its built-in crypto wallets and use it to store your currency. And let's get pitchy for a moment here-- Brave is super useful if you prefer working on a laptop versus a phone. If this sounds like you, look into Brave Browser because it has other cool features like ad blocking, too! So ok, if you're a Brave user, open Brave Settings and you'll find a Wallet option on the left sidebar; this can accept ETH (Ethereuem), BTC (Bitcoin), BAT (Basic Attention Token) and many more currencies. Choose ETH & BAT for now, double check that you have your Brave account password saved securely, and then pat yourself on the back! 
-
-![Brave Wallet screen](./imgs/BraveWallet.png)
-#### The Brave Browser Wallet on desktop resolution
+[Trust Wallet](https://trustwallet.com/deeplink/) is the best option for just about everyone.  A mobile app that can hold any crypto from any blockchain, there's no reason for beginners to look elsewhere. Unless you plan on getting into blockchain gaming, in which case you may need to use a more exotic wallet app like [Math Wallet](https://mathwallet.org/en-us/). Come back and grab Math if you need it, and just DL [Trust Wallet](https://trustwallet.com/deeplink/)! 
 
 
-![MetaMask logo](../../static/img/MetaMask-logo.svg)
-# Get MetaMask If
-Brave's wallet is similar to a Chrome Browser extension called [MetaMask](https://en.wikipedia.org/wiki/MetaMask), which has really smoothed the way for crypto developers ever since 2017. When you run your browser you automatically have access to crypto: it's like having your wallet attached to Chrome and makes visiting Web 3.0 sites a breeze.
+Below are example screens of what Trust Wallet looks like on Android. Apple devices will work similarly (YMMV).
 
-It interacts with most major blockchains, and will work better for you than TrustWallet if you dislike using phone apps to move money around.
 
-Unfortunately it's painful for Ethereum users right now due to the age of the v1 network because transaction fees sometimes cost dozens of dollars, US. Yet this is true in TrustWallet, too-- they're both accessing the same blockchain, and there's no exchange to discount the transaction fees magically.
+## save your Key Words safely
+When you first open Trust Wallet you will need to save some Key Words because this is how you can recover crypto. This can happen after you lose your phone and re-install Trust Wallet, so write them down and secure them somewhere.
 
-But it may be of special interest if:
-- you really dislike using your smartphone for crypto stuff and prefer the web browser
-- you plan to become a blockchain developer, because it gives you access to test networks
-- you're wanting to play crypto games that use Ethereum tokens, like AxieInfinity
-
-# Everyone Else, Download Trust Wallet
-Let's avoid MetaMask for now and focus on [Trust Wallet](https://trustwallet.com/deeplink/)! Go ahead and download it to your phone now, and let's head to the next step. Here's an example screen of what Trust Wallet looks like on Android, while it swaps two very similar-looking tokens.
-
-![Trust Wallet Swap screen USDT example](./imgs/trustwallet-swap-USDT.png)
-#### Typical Swap in Trust Wallet
-
-## Now That You Have a Crypto Wallet...
 :::tip
-Did you write down your Twelve Words somewhere safe?
+Did you write down & hide your wallet Key Words somewhere safe?
 :::tip
+
+
+
+## generate BTC address
+![Trust Wallet Tutorial Step 3,1](../../static/img/tw1.jpg)
+What the app looks like on Android, with many tokens. Pretend that it's empty and that we need to add Bitcoin to our wallet.
+
+> So press the Receive button...
+
+![Trust Wallet Tutorial Step 3,2](../../static/img/tw2.jpg)
+> Search for and add Bitcoin to your Trust Wallet.
+
+
+![Trust Wallet Tutorial Step 3,3](../../static/img/tw3.jpg)
+> Now use the Copy button to grab this text string, which is your Bitcoin receiving address.
+
+
+
+
+
+
+## add the new address to Twitter
+This is easy enough-- Edit your profile, Turn On Tips, and Add BTC Address.
+
+
+### Edit your profile
+![Twitter Bitcoin Wallet Tutorial Step 4,1](../../static/img/zero1.png)
+
+
+
+### Turn On Tips
+![Twitter Bitcoin Wallet Tutorial Step 4,2](../../static/img/zero2.png)
+
+
+### Add BTC Address 
+![Twitter Bitcoin Wallet Tutorial Step 4,3](../../static/img/zero3.png)
+Just paste in the text you copied from Trust Wallet, and you're now ready to receive Bitcoin from your fans and fam!
+
+

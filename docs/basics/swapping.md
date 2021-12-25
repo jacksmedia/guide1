@@ -1,11 +1,10 @@
 ---
-sidebar_position: 9
+sidebar_position: 5
 ---
-# 🔄 Swap Between Tokens (BSC)
+# 🔄 Swap Between Tokens
 
-You can use Apeswap to unwrap your WBNB into BNB!
+You can use Trust Wallet to move between blockchains!
+- why?
 
-Here's the overeview:
-
-
-Highlight steps
+Highlight steps to change BSC (BNB BEP20) to BNB (BEP2)
+- how
