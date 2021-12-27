@@ -77,6 +77,7 @@ This is easy enough-- Edit your profile, Turn On Tips, and Add BTC Address.
 
 ### 3. Add BTC Address 
 ![Twitter Bitcoin Wallet Tutorial Step 4,3](../../static/img/zero3.png)
+
 Just paste in the text you copied from Trust Wallet, and you're now ready to receive Bitcoin from your fans and fam!
 
 Looking to convert that BTC into US Dollars and withdraw it at an ATM? Read elsewhere in this site about [joining Coinbase and Valora](https://silversidedown.com/docs/exchanges/join).

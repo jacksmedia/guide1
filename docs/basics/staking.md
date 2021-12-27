@@ -9,13 +9,13 @@ Staking is when you hold your funds in place, and you earn rewards. This is the 
 
 ## How To Stake
 
-When you own ATOM or ALGO you receive rewards directly into your wallet every few weeks, as people and apps use these blockchains. Yet it's not just these cryptos that make up DeFi. Most blockchains allow for smart contracts, so most blockchains have DeFi tools now. The examples below are from HarmonyONE, a stupendous Ethereum clone that is 1000x cheaper to use. 
+When you own CELO (or ATOM, or ALGO, or other tokens I've not yet heard of) you receive rewards directly into your wallet every few weeks, as people and apps use these blockchains. Yet it's not just these cryptos that make up DeFi. Most blockchains allow for smart contracts, so most blockchains have DeFi tools now. The examples below are from HarmonyONE, a stupendous Ethereum clone that is 1000x cheaper to use.
 
-Locking up funds is called "providing liquidity" and is a cool technique for making money with money that anyone can learn.
+Locking up funds is called "providing liquidity" and is a cool technique for making money with money that anyone can learn. Only Step 1 is required, but Step 2 is highly suggested.
 
 ### 1. Providing (Adding) Liquidity
 
-Gluing two crypto tokens together creates a public investment tool called a *Liquidity Pool token*. 
+Gluing two crypto tokens together creates a public investment tool called a *Liquidity Pool token*. Do this at the **Trade > Liquidity** section of any DEX such as [Sushiswap](https://sushi.com), [Pancakeswap.finance](https://pancakeswap.finance/liquidity), [Mochiswap](https://harmony.mochiswap.io/liquidity), [SpookySwap](https://spookyswap.finance/add). Those are 4 different decentralised exchanges (DEXs), one per blockchain (Ethereum, Binance, Harmony, Fantom, respectively) yet you can see how their layouts and UX all match because the feature of providing liquidity is the same regardless of crypto.
 
 ![Trust Wallet Tutorial Step 3,1](../../static/img/lp1.png)
 
@@ -29,7 +29,7 @@ Once you stake your LPs into a Pool or Farm you start earning extra yield, becau
 
 ![Trust Wallet Tutorial Step 3,1](../../static/img/lp2.png)
 
-This [Mochiswap](https://harmony.mochiswap.io/farms) farm will yield both more JEWEL-HMOCHI tokens and MOCHI tokens. Double yield from farming with Liquidity Pool tokens!
+This [Mochiswap](https://harmony.mochiswap.io/farms) farm offers two separate yields: both more JEWEL-HMOCHI tokens *and MOCHI tokens*. Double harvests from farming with Liquidity Pool tokens!
 
 > This is almost exactly how the EGLD-MEX pair works on Maiar Exchange: you glue together EGLD and MEX tokens, then you can stake/farm with those LPs-- no growth in your LPs on Maiar, unfortunately, so it pays to DYOR and use many types of DeFi tools on many different blockchains!
 
@@ -37,9 +37,13 @@ Huge varieties of LP combinations exist, representing micro-sized versions of tr
 
 DeFi is brazenly built to disrupt the existing financial system, and will continue to innovate in this direction. 
 
-Stay tuned for more upcoming DeFi content, such as how to stake your money in Pools, Farms, and Vaults: three tools that yield generous passive income for liquidity providers. This will stretch your imagination as well as your tech stamina, so prepare to earn these tasty APRs and APYs (yes, auto-compounding yields versus incremental percentage rates).
+Stay tuned for more upcoming DeFi content, such as:
 
-### Read on to see some more logistical pros and cons regarding trading crypto-- based on my observations, nothing more (#NFA)
+- step-by-step guide on how to stake / farm using Egold on MaiarDex
+- step-by-step guide on how to stake / farm using Binance Smart Chain on Pancakeswap
+- NFT minting guide for Egold
+
+These will stretch your imagination as well as your tech stamina, so prepare to earn the tasty APRs and APYs.
 
 
 Have you [joined Coinbase yet?
