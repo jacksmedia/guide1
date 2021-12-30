@@ -20,5 +20,5 @@ You can choose to convert the XLM reward _(for free!)_ to Cosmos (ATOM), which i
 
 Read on for some starter info on how to stake your crypto for even bigger APRs than the numbers listed above.  
 
-PS: The first step is to [join Coinbase.
-![Coinbase](../../static/img/Coinbase-logo.svg)](https://www.coinbase.com/join/jacks_pv)
+
+> [![Coinbase](../../static/img/Coinbase-logo.png) Have you joined Coinbase yet?](https://www.coinbase.com/join/jacks_pv) They currently offer 4% back on debit purchases, in crypto!

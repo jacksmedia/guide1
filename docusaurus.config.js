@@ -46,7 +46,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '📑 Docs',
           items: [
             {
               label: 'Tutorial',
@@ -55,7 +55,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Even More!',
+          title: '📝 Long Form',
           items: [
             {
               label: 'Deep Dive into Blockchains',
@@ -68,24 +68,16 @@ module.exports = {
           ],
         },
         {
-          title: 'How To Build This Yourself',
+          title: '🤳 Sosh',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/J4cksRvn',
             },
           ],
         },
       ],
-      copyright: `Any advice found on this website is of a logistical nature. No content herein constitutes financial advice.<br/>Copyright © ${new Date().getFullYear()} Jacks Media, LLC.<br/><br/>Donate EGLD: erd159mypt4myss3mqrs89ft0hjeacffks2690gq9u3mlh73m9sh0w5s09eqhh<br/>Donate RVN: RDhE9ZEEcRn38x5tQiYvv9gT7MXfwL82By<br/>Donate BTC: bc1q3jmlqvpkta0jywy87edd97v9yu7jv74xu0fhy4`,
+      copyright: `Any advice found on this website is of a logistical nature. No content herein constitutes financial advice.<br/>Copyright © ${new Date().getFullYear()} Jacks Media, LLC by J4cks.eth<br/><br/>Tips and ☕️🪙 donations sincerely appreciated.<br/>$EGLD: erd159mypt4myss3mqrs89ft0hjeacffks2690gq9u3mlh73m9sh0w5s09eqhh<br/>$RVN: RDhE9ZEEcRn38x5tQiYvv9gT7MXfwL82By<br/>$BTC: bc1q3jmlqvpkta0jywy87edd97v9yu7jv74xu0fhy4`,
     },
     prism: {
       theme: lightCodeTheme,
