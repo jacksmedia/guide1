@@ -9,11 +9,11 @@
             <stop stop-color="#C4AEAD" offset="51.0444435%"></stop>
             <stop stop-color="#666666" offset="100%"></stop>
         </linearGradient>
-        <text id="text-2" font-family="Raleway-Regular, Raleway" font-size="330" font-weight="normal" letter-spacing="-5.5" fill="#FFFFFF">
-            <tspan x="87" y="488">side</tspan>
+        <text id="text-2" font-family="Raleway-Regular, Raleway" font-size="290" font-weight="normal" letter-spacing="-4.83333333" fill="#FFFFFF">
+            <tspan x="137" y="498">side</tspan>
         </text>
-        <filter x="-1.8%" y="-2.6%" width="103.6%" height="105.7%" filterUnits="objectBoundingBox" id="filter-3">
-            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+        <filter x="-2.0%" y="-3.1%" width="103.9%" height="106.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
@@ -24,10 +24,25 @@
                 <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
             </feMerge>
         </filter>
-        <text id="text-4" font-family="Raleway-Regular, Raleway" font-size="240" font-weight="normal" letter-spacing="-4">
-            <tspan x="51" y="226">Silver</tspan>
+        <text id="text-4" font-family="Raleway-Regular, Raleway" font-size="290" font-weight="normal" letter-spacing="-4.83333333" fill="#FFFFFF">
+            <tspan x="26" y="732">down</tspan>
         </text>
-        <filter x="-1.2%" y="-1.8%" width="102.4%" height="105.0%" filterUnits="objectBoundingBox" id="filter-5">
+        <filter x="-1.4%" y="-3.1%" width="102.9%" height="106.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-6" font-family="Raleway-Regular, Raleway" font-size="290" font-weight="normal" letter-spacing="-4.83333333">
+            <tspan x="38" y="273">Silver</tspan>
+        </text>
+        <filter x="-1.0%" y="-1.5%" width="102.0%" height="104.1%" filterUnits="objectBoundingBox" id="filter-7">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
@@ -39,13 +54,14 @@
             <use filter="url(#filter-3)" xlink:href="#text-2"></use>
             <use xlink:href="#text-2"></use>
         </g>
-        <text id="down" font-family="Raleway-Regular, Raleway" font-size="270" font-weight="normal" letter-spacing="-4.5" fill="#FFFFFF">
-            <tspan x="51" y="721">down</tspan>
-        </text>
+        <g id="down" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+            <use xlink:href="#text-4"></use>
+        </g>
         <g id="Silver" fill="#838996">
-            <use fill-opacity="1" filter="url(#filter-5)" xlink:href="#text-4"></use>
-            <use fill-rule="evenodd" xlink:href="#text-4"></use>
-            <use fill-opacity="1" xlink:href="#text-4"></use>
+            <use fill-opacity="1" filter="url(#filter-7)" xlink:href="#text-6"></use>
+            <use fill-rule="evenodd" xlink:href="#text-6"></use>
+            <use fill-opacity="1" xlink:href="#text-6"></use>
         </g>
     </g>
 </svg>

@@ -36,7 +36,10 @@ The gold message box explains that you are now earning 0.25% whenever the EGLD-M
 > EGLD-MEX LP Tokens Created! Now click on green Stake button or the Farms option up top.
 
 ### 4. Choose the LPs you just Made
-You're about to plant some LP seeds in the soil of Maiardex!
+You're about to plant some LP seeds in the soil of Maiardex! You can choose to lock your rewards and create LKMEX, not MEX; Locked MEX cannot be traded for months, so the choice of farm is a strategic decision for you to ponder carefully.
+
+> You can see how 2 different LPs are possible: EGLD-MEX & EGLD-LKMEX (the tiny yellow lock is not very easy to see, sadly, and the app doesn't make it clear that the 2nd tokens are EGLD-LKMEX in any other way.)
+
 ![MEX Farming tutorial Step ](../../static/img/mlp4.png)
 
 
@@ -54,7 +57,9 @@ Will you choose to farm MEX, or Lock/freeze your MEX rewards into LKMEX, for a h
 ![MEX Farming tutorial Step 7](../../static/img/mlp9.png)
 
 
-Congrats! Now you can just sit and watch your MEX grow!!! 🙀Ⓜ️🚜 You have earned the title of DeFi MEX Farmer. Withdraw your profits when you're ready and stake them anew, or use them to make more EGLD!
+Congrats! Now you can just sit and watch your MEX grow!!! *You have earned the title of DeFi MEX Farmer.* 🙀Ⓜ️🚜 
+
+Withdraw your profits when you're ready and stake them anew, or use them to make more EGLD!
 
 > Stay tuned for more DeFi and Maiar content!
 

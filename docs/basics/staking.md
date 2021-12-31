@@ -24,7 +24,7 @@ Gluing two crypto tokens together creates a public investment tool called a *Liq
 
 These LP tokens require gas fees to make and unmake, yet they will reward you like ATOM or ALGO whenever users interact with your pair (whenever someone trades crypto #1 for crypto #2). So when you hold LPs, you're part of the DEX's financial system! The larger your percent of the liquidity pair, the larger your reward. You're helping anonymous crypto fans just like yourself move value back and forth between crypto tokens.
 
-If you want multiple rewards you can *also* lock these funds into Farms or Vaults or Pools, similar tools that will multiply the LP investment and often reward you with a second token as well. 
+If you want multiple rewards you can *also* lock these funds into Farms or Vaults or Pools, similar tools that will multiply the LP investment and often reward you with a second token as well.
 
 
 ### 2. Stake LP Tokens into a Pool, Farm, Vault, etc 
