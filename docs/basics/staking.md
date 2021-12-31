@@ -11,20 +11,24 @@ Staking is when you hold your funds in place, and some smart contract gives you 
 
 ## How To Stake
 
-When you own CELO (or ALGO, or ATOM) you receive rewards directly into your wallet every few weeks, as people and apps use these blockchains. Yet it's not just these cryptos that make up DeFi. Most blockchains allow for smart contracts, so most blockchains have DeFi tools now. The examples below are from HarmonyONE, a stupendous Ethereum clone that is 1000x cheaper to use.
+When you own CELO (or ALGO, or ATOM) you receive rewards directly into your wallet every few weeks, as people and apps use these blockchains. Yet it's not just these cryptos that make up DeFi. Most blockchains allow for smart contracts, so most blockchains have DeFi tools now. The example below is from HarmonyONE, a stupendous Ethereum clone that is 1000x cheaper to use.
 
 Staking (aka locking up funds) is called "providing liquidity" and is a cool technique for making money with money that anyone can learn. Only Step 1 is required, but Step 2 is highly suggested.
 
 ### 1. Providing (Adding) Liquidity & Pools
 
-Gluing two crypto tokens together creates a public investment tool called a *Liquidity Pool token*. Do this at the **Trade > Liquidity** section of any DEX such as [Sushiswap](https://sushi.com), [Pancakeswap.finance](https://pancakeswap.finance/liquidity), [Mochiswap](https://harmony.mochiswap.io/liquidity), [SpookySwap](https://spookyswap.finance/add). Those are 4 different decentralised exchanges (DEXs), one per blockchain (Ethereum, Binance, Harmony, Fantom, respectively) yet if you compare them you can see how their layouts and UX all match because the feature of providing liquidity is the same regardless of crypto.
+Gluing two crypto tokens together creates a public investment tool called a *Liquidity Pool token*. Do this at the *Trade > Liquidity* section of any DEX such as [Uniswap](https://app.uniswap.org/#/swap), [Pancakeswap](https://pancakeswap.finance/liquidity), [Mochiswap](https://harmony.mochiswap.io/liquidity), [SpookySwap](https://spookyswap.finance/add). Those are 4 different decentralised exchanges (DEXs), one per blockchain (Ethereum, Binance, Harmony, Fantom, respectively) yet if you compare them you can see how their layouts and UX are all very similar because the feature of providing liquidity is the same regardless of crypto.
 
 ![Staking and LP Tutorial Step 3,1](../../static/img/lp1.png)
-#### Notice the amount of hMOCHI and JEWEL is v different, and creates a number of LP tokens that equal the value of both the ingredients
+:::caution
+1000 + 0.26 ≄ 15.82
 
-These LP tokens require gas fees to make and unmake, yet they will reward you like ATOM or ALGO whenever users interact with your pair (whenever someone trades crypto #1 for crypto #2). So when you hold LPs, you're part of the DEX's financial system! The larger your percent of the liquidity pair, the larger your reward. You're helping anonymous crypto fans just like yourself move value back and forth between crypto tokens.
+Notice the amounts of hMOCHI and JEWEL used are very different. Also, they create a weird number of LP tokens that regardless equal the value of both the ingredients.
+:::caution
 
-If you want multiple rewards you can *also* lock these funds into Farms or Vaults or Pools, similar tools that will multiply the LP investment and often reward you with a second token as well.
+These LP tokens require gas fees to make and unmake, yet they will slowly grow to reward you like ATOM or ALGO whenever users interact with your pair (whenever someone trades crypto #1 for crypto #2). So when you hold LPs, you're part of the DEX's financial system! The larger your percent of the liquidity pair, the larger your reward. You're helping anonymous crypto fans just like yourself move value back and forth between crypto tokens.
+
+If you want multiple rewards you can *also* stake these funds into Farms or Vaults or Pools, similar tools that will also multiply the LP investment and often reward you with a second token as well.
 
 
 ### 2. Stake LP Tokens into a Pool, Farm, Vault, etc 
@@ -34,11 +38,13 @@ Once you stake your LPs into a Pool or Farm you start earning extra yield, becau
 
 This [Mochiswap](https://harmony.mochiswap.io/farms) farm offers two separate yields: both more JEWEL-HMOCHI tokens *and MOCHI tokens*. Double harvests from farming with Liquidity Pool tokens!
 
-Huge varieties of LP combinations exist, representing decentralised/public versions of traditional currency lending pairs like US/EUR. And because all the tremendous liquidity these DEXs (and CEXs) operate automatically thanks to smart contracts, this is why the crypto markets never close...
+Huge varieties of LP combinations exist, representing decentralised/public versions of traditional currency lending pairs like US/EUR. The tremendous volume of crypto exchanges is made possible by continuous public investment into liquidity pairs.
 
-DeFi is brazenly built to disrupt the existing financial system, and will continue to innovate in this direction. 
+> Popular financing and automated contracts is why the crypto markets never close.
 
-Interested in learning how to stake Egold and farm MEX on MaiarDex?? Please read on to find [this step-by-step guide](http://localhost:3000/docs/basics/mex%20farming).
+As you can see, DeFi is brazenly built to disrupt the existing monetary system, and will continue to innovate relentlessly, 24/7 due to human nature. Underestimate this new industry at your own risk!
+
+Interested in learning how to stake Egold and farm MEX on MaiarDex?? Please read on to find [this step-by-step guide](http://localhost:3000/docs/basics/mex-farming).
 
 :::tip
 Add this site to your Homescreen and stay tuned for more upcoming DeFi content, such as:
