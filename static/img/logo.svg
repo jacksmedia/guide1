@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="784px" height="784px" viewBox="0 0 784 784" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>Rectangle</title>
+    <title>favicon1</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
@@ -25,9 +25,9 @@
             </feMerge>
         </filter>
         <text id="text-4" font-family="Raleway-Regular, Raleway" font-size="290" font-weight="normal" letter-spacing="-4.83333333" fill="#FFFFFF">
-            <tspan x="26" y="732">down</tspan>
+            <tspan x="12" y="716">Down</tspan>
         </text>
-        <filter x="-1.4%" y="-3.1%" width="102.9%" height="106.2%" filterUnits="objectBoundingBox" id="filter-5">
+        <filter x="-1.4%" y="-3.1%" width="102.8%" height="106.2%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
@@ -49,19 +49,21 @@
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="784" height="784"></rect>
-        <g id="side" fill="#FFFFFF" fill-opacity="1">
-            <use filter="url(#filter-3)" xlink:href="#text-2"></use>
-            <use xlink:href="#text-2"></use>
-        </g>
-        <g id="down" fill="#FFFFFF" fill-opacity="1">
-            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
-            <use xlink:href="#text-4"></use>
-        </g>
-        <g id="Silver" fill="#838996">
-            <use fill-opacity="1" filter="url(#filter-7)" xlink:href="#text-6"></use>
-            <use fill-rule="evenodd" xlink:href="#text-6"></use>
-            <use fill-opacity="1" xlink:href="#text-6"></use>
+        <g id="favicon1">
+            <rect id="gradient" fill="url(#linearGradient-1)" x="0" y="0" width="784" height="784"></rect>
+            <g id="side" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                <use xlink:href="#text-2"></use>
+            </g>
+            <g id="Down" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                <use xlink:href="#text-4"></use>
+            </g>
+            <g id="Silver" fill="#838996">
+                <use fill-opacity="1" filter="url(#filter-7)" xlink:href="#text-6"></use>
+                <use fill-rule="evenodd" xlink:href="#text-6"></use>
+                <use fill-opacity="1" xlink:href="#text-6"></use>
+            </g>
         </g>
     </g>
 </svg>
