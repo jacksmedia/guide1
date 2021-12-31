@@ -44,7 +44,7 @@ Huge varieties of LP combinations exist, representing decentralised/public versi
 
 As you can see, DeFi is brazenly built to disrupt the existing monetary system, and will continue to innovate relentlessly, 24/7 due to human nature. Underestimate this new industry at your own risk!
 
-Interested in learning how to stake Egold and farm MEX on MaiarDex?? Please read on to find [this step-by-step guide](http://localhost:3000/docs/basics/mex-farming).
+Interested in learning how to stake Egold and farm MEX on MaiarDex?? Please read on to find [this step-by-step guide](https://silversidedown.com/docs/basics/mex-farming).
 
 :::tip
 Add this site to your Homescreen and stay tuned for more upcoming DeFi content, such as:
