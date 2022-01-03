@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Silverside Down',
-  tagline: 'Get Your Start in Cryptocurrency',
+  tagline: 'Crypto & DeFi Basics',
   url: 'https://silversidedown.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -24,7 +24,7 @@ module.exports = {
     navbar: {
       title: 'Silverside Down',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Silverside Down Site Logo',
         src: 'img/logo.svg',
       },
       items: [
