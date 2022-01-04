@@ -111,9 +111,9 @@ Once the swap is complete, I can confirm that MetaMask only shows a balance of J
 
 If It's Too Good To Be True, IT IS. Nobody is giving away money today. Believe you me.
 
-I *would* have made money these last few days *IF I only held JEWEL*, but I locked it into a liquidity pair with HMOCHI, which anchored it from soaring in value. It was Impermanent Loss to my LP, but I took the hit and unstaked today (cutting my losses) b/c I've no confidence in HMOCHI going forward-- but I believe in JEWEL based on the past few days.
+I *would* have made money these last few days *IF I only held JEWEL*, but I locked it into a liquidity pair with HMOCHI, which anchored it from soaring in value. It was Impermanent Loss to my LP, but I took the hit and unstaked then unpaired today (cutting my losses) b/c I've no confidence in HMOCHI going forward-- but I believe in JEWEL based on historical data plus what I'm seeing on the horizon. In contrast, hMOCHI has nowhere to go but down because it has no utility beyond powering its DEX-- which appears to be a Scylla like every other darn DEX I've encountered on these unnumbered seas.
 
-That's about 200 days of DeFi experience points rolled into one batch for you, anon. Hope you level, it's a lot of xp!
+That's about 200 days of DeFi experience points rolled into one batch for you, anon. Hope you level up, it's a lot of xp!
 
 :::warning
 DYOR & Take Your Own Notes (TYON)
