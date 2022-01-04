@@ -62,7 +62,11 @@ OK, time for action. Let's re-allocate these tokens in a more lucrative fashion!
 
 > Doesn't HarmonyONE blockchain have the cheapest gas??? 😻
 
-Remove the liquidity, aka turn your LPs back into two different piles of tokens. When I do this to my JEWEL-HMOCHI farm, the value comes out as half HMOCHI. This is the Impermanent Loss, because *the HMOCHI is adjusted to match the gains that JEWEL made*, SO I get less JEWEL back than I wanted-- exactly half of the current LP value, which has been depressed badly by the lazy HMOCHI.
+If you're kinda unsure if your farm might be worthwhile in a few months, then just unstake 90% of it for this step. Feel free to leave 10% as "What If I'm Too Cautious Today" insurance policy. *But if you're certain this was a poor investment, unstake 100% of the LPs*. Cut your losses! I'm definitely scooping out all of these LPs, because this is one of the most disappointing farms I've yet created.
+
+### 3. Remove your Liquidity Pair (goodbye LPs)
+
+Turn your LPs back into two different piles of tokens. When I do this to my JEWEL-HMOCHI farm, the value comes out as half HMOCHI. This is the Impermanent Loss, because *the HMOCHI is adjusted to match the gains that JEWEL made*, SO I get less JEWEL back than I wanted-- exactly half of the current LP value, which has been depressed badly by the lazy HMOCHI.
 
 :::tip
 If "Teamwork Makes the Dream Work",
@@ -71,8 +75,6 @@ Impermanent Loss =
 
 "the Dream Team you thought was hard at work was unemployed all this time"
 :::tip
-
-If you're kinda unsure if your farm might be worthwhile in a few months, then just unstake 90% of it for this step. Feel free to leave 10% as "What If I'm Too Cautious Today" insurance policy. *But if you're certain this was a poor investment, unstake 100% of the LPs*. Cut your losses! I'm definitely scooping out all of these LPs, because this is one of the most disappointing farms I've yet created.
 
 ![Impermanent Loss Step 2 - confirm ](../../static/img/il7.png)
 
@@ -88,9 +90,11 @@ If you're kinda unsure if your farm might be worthwhile in a few months, then ju
 
 ![Impermanent Loss Step 2 - confirm ](../../static/img/ila.png)
 
-Congrats to me, this particular LP misadventure is at an end. But I'm still holding a lot of HMOCHI, which is flatly unacceptable given my research today.
+Congrats to me, this particular LP misadventure is at an end. Huzzah! Now the JEWEL can grow big and strong, unfettered by meme token weeds.
 
-### 3. Swap Loser Tokens into Winners
+### 4. Swap Loser Tokens into Winners
+
+But I'm still holding a lot of HMOCHI, which is flatly unacceptable given my research today.
 
 So I'm gonna swap the DEX's goofy meme token back into the one with actual use (ergo, value), JEWEL. If you haven't looked into what JEWEL is and how it powers the DeFiKingdoms game, I recommend that you do!
 
@@ -98,7 +102,7 @@ So I'm gonna swap the DEX's goofy meme token back into the one with actual use (
 
 > Notice how the DEX is mocking me with a rando text snippet for going "Full Newton". Whatever, mochiswap, I'm secure in my madcap financieering. 😤
 
-Once the swap is complete, I can confirm that MetaMask only shows a balance of JEWEL, and no more hMOCHI. Huzzah! Now the JEWEL can grow big and strong, unfettered by meme token weeds.
+Once the swap is complete, I can confirm that MetaMask only shows a balance of JEWEL, and no more hMOCHI.
 
 ![Impermanent Loss Step 2 - confirm ](../../static/img/ilc.png)
 
